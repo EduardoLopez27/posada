@@ -1,0 +1,71 @@
+header{
+width: 100%;
+height: 63px;
+background:red ;
+color: #fff;
+
+position: absolute; 
+top: 0;
+left: 0;
+z-index: 10; 
+
+
+}
+
+*{
+
+  margin: 0px;
+  padding: 0px;
+}
+
+
+div#general{
+  margin: auto;
+  margin-top: 50px;
+width: 900px;
+height: 800px;
+background-color: red;
+
+
+}
+
+div#oferta{
+  margin-top: 20px;
+  float: right;
+  width: 200px;
+  height: 760px;
+  background-color:green;
+}
+
+div#novedades{
+  width: 640px;
+  height: 200px;
+  background-color: blue;
+}
+
+div#body{
+  margin-top: 20px;
+   width: 640px;
+   height: 580px;
+   background-color: purple;    
+   
+
+
+}
+
+div#body2{
+margin-top: 20px;
+width: 600px;
+height: 300
+}
+
+
+div#general2{
+   margin: auto;
+  
+width: 100px;
+height: 100px;
+background-color: black;
+
+
+}
